@@ -1,7 +1,7 @@
 .cards {
-    display: flex;    
+    display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;    
+    justify-content: space-between;
     width: 920px;
     margin: 0 auto;
     padding: 0;
@@ -9,5 +9,5 @@
 
 .cards:after {
     content: "";
-    flex-basis: 240px;       
+    flex-basis: 240px;
 }
